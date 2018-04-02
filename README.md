@@ -8,6 +8,6 @@ Unfortunately I can't share the log file but you can generate or use other Apach
 
 `"%h %l %u %t \"%r\" %>s %b \"%{Referer}i\" \"%{User-agent}i\""`
 
-HOW TO
+## HOW TO
 
 Indonesian https://github.com/ardhiesta/spark-log-analysis/blob/master/HOW%20TO%20(ID).md
