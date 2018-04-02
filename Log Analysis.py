@@ -1,3 +1,5 @@
+# based on code from https://github.com/jordancheah/Apache-Web-Log-Analysis-Spark
+# ported to Python 3
 import re
 import datetime
 from pyspark.sql import Row
